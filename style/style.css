@@ -1,0 +1,221 @@
+ul{
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.image-1{
+	display: inline-block;
+}
+li{
+	font-size: 22px;
+	color: blue;
+	display: inline-block;
+	padding: 30px;
+}
+.მთავარი{
+	font-size: 22px;
+	color: red;
+	text-decoration: none;
+}
+.div1{
+	display: inline-block;
+	font-style: bold;
+	font-size: 48px;
+	color: white;
+	background-color: blue;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.div2{
+	font-style: bold;
+	color: blue;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.p1{
+	font-size: 20px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.image-2{
+	margin-top: 20px;
+	margin-left: 50px;
+	display: inline-block;
+}
+.p2{
+	font-size: 20px;
+	width: 500px;
+	vertical-align: top;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.div3{
+	font-style: bold;
+	font-size: 48px;
+	color: white;
+	background-color: blue;
+	margin-top: 30px;
+	margin-left: 50px;
+	width: 50px;
+}
+.div4{
+	font-style: bold;
+	color: blue;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.p3{
+	font-size: 20px;
+	vertical-align: top;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.image-3{
+	margin-top: 20px;
+	margin-left: 50px;
+	display: inline-block;
+}
+.p4{
+	font-size: 20px;
+	width: 500px;
+	vertical-align: top;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.div5{
+	font-style: bold;
+	font-size: 48px;
+	color: white;
+	background-color: blue;
+	margin-top: 30px;
+	margin-left: 50px;
+	width: 50px;
+}
+.div6{
+	font-style: bold;
+	color: blue;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.p5{
+	font-size: 20px;
+	vertical-align: top;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.image-4{
+	margin-top: 20px;
+	margin-left: 50px;
+	display: inline-block;
+}
+.p6{
+	font-size: 20px;
+	width: 500px;
+	vertical-align: top;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.fb{
+ margin-top: 50px;
+ margin-left: 50px;
+ border-right: 2px solid blue; 
+ display: inline-block;
+ padding-right: 15px;
+}
+.youtube{
+	margin-left: 0px;
+	margin-top: 50px;
+	display: inline-block;
+	padding-left: 15px;
+}
+.კონტაქტი{
+	text-decoration: none;
+	color: red;
+	font-size: 22px;
+}
+.div7{
+	margin-left: 50px;
+	float: left;
+}
+.img5{
+	width: 1170px;
+}
+.p7{
+	margin-top: 50px;
+	width: 379px;
+}
+h3{
+	margin-top: 40px;
+	width: 274px;
+}
+.div8{
+	width: 400;
+	display: inline-block;
+	background-color: gray;
+	padding: 15px;
+	float: left;
+}
+.img6{
+	width: 102.87px;
+	margin-top: 40px;
+	display:inline-block;
+	vertical-align: top;
+
+}
+.p8{
+	width: 355px;
+	display: inline-block;
+	margin-top: 40px;
+
+}
+.div9{
+	width: 400;
+	display: inline-block;
+	background-color: gray;
+	padding: 15px;
+	float: right;
+}
+.div10{
+	width: 1170px;
+}
+.div11{
+	width: 1170px;
+	float: left;
+	margin-left: 50px;
+}
+
+.divcontact{
+	margin-top: 50px;
+	margin-left: 50px;
+	background-color: #E6E6E6;
+	padding-left: 20px;
+	width: 1400px;
+	height: 570px;
+}
+.div.contact{
+	width: 261px;
+	display: block;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+h2{
+	color: #3D58A6;
+	display: block;
+	width: 261px;
+}
+.misamarti{
+	display: inline-block;
+}
+.teleponi{
+	display: inline-block;
+}
+.posta{
+	display: inline-block;
+}
+.map{
+	width: 874px;
+	float: right;
+}
